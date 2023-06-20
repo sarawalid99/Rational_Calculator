@@ -1,12 +1,3 @@
-// FCAI – Programming 1 – 2022 - Assignment 2
-// Program Name: RationalNumberCalculator.cpp
-// Program Description: Problem 1: Rational Number Calculator
-// Last Modification Date: 27/03/2022
-// Author1 and ID and Group: Shawky Ebrahim Ahmed Mahmoud - 20210184 - S4
-// Author2 and ID and Group: Sara Walid farouk Mohamed - 20210495 - S10
-// Author3 and ID and Group: Khadija Ayman Elsayed Eshra - 20210540 - S10
-// Teaching Assistant: Nesma
-// Purpose: make a rational calculator and print the output in the rational number
 #include <bits/stdc++.h>
 using namespace std;
 bool is_new = true,is_div = false, is_multi = false;
